@@ -24,7 +24,7 @@ index.html
         </div>
 
         <!-- Call-to-Action Button -->
-        <a href="YOUR_SMARTLINK_HERE" class="cta-button">👉 Start Chatting Now!</a>
+        <a href="https://bit.ly/41ri1Ny" class="cta-button">👉 Start Chatting Now!</a>
 
         <p class="small-text">💡 100% Free to Sign Up – Only a Few Spots Left!</p>
     </div>
@@ -32,6 +32,7 @@ index.html
     <script src="script.js"></script>
 </body>
 </html>
+
 style.css
 body {
     font-family: Arial, sans-serif;
