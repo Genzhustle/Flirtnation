@@ -32,7 +32,7 @@
 </body>
 </html>
 
-style.css
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -99,7 +99,7 @@ h1 {
     font-size: 14px;
     color: lightgray;
 }
-script.js
+
 function startCountdown(durationInMinutes) {
     let timer = durationInMinutes * 60;
     let countdownElement = document.getElementById("timer");
